@@ -10,13 +10,14 @@
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.github.com/theobr)
 
 ### Tech I'm passionate about
-<div style="display: flex">
+<div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
   <a href="https://trpc.io"><img src="https://trpc.io/img/logo-no-text.svg" width="36" height="36" alt="tRPC"/></a>
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://planetscale.com"><img src="https://planetscale.com/favicon.svg" width="36" height="36" alt="PlanetScale" /></a>  
+  <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="36" height="36" alt="Prisma" /></a>
+  <a href="https://planetscale.com"><img src="https://planetscale.com/favicon.svg" width="36" height="36" alt="PlanetScale" /></a>
 </div>
 
 ### Stats
