@@ -32,4 +32,4 @@
 <a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="100" /></a>
 
 ### Contributes to
-[![create-t3-app](https://github-readme-stats.vercel.app/api/pin/?username=nexxeln&repo=create-t3-app&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/nexxeln/create-t3-app)
+[![create-t3-app](https://github-readme-stats.vercel.app/api/pin/?username=t3-oss&repo=create-t3-app&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/nexxeln/create-t3-app)
