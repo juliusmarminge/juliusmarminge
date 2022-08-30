@@ -3,10 +3,10 @@
 ### Software Engineer
 
 * 👨‍💻  Currently mostly into webapps. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
+* 🤝  Open Source Contributor and Maintainer
 * 🌍  Based in Sweden 🇸🇪
 * 🏫  Student @ [Blekinge Institution of Technology](https://www.bth.se) 
 * 🖥️  Check out my portfolio at [www.jumr.dev](https://www.jumr.dev)
-* 🤝  I'm open to collaborating on interesting projects
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.github.com/theobr)
 
 ### Tech I'm passionate about
@@ -30,6 +30,7 @@
 
 ### Maintainer at
 <a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="100" /></a>
+<a href="https://github.com/trpc"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="100" /></a>
 
 ### Contributes to
 [![create-t3-app](https://github-readme-stats.vercel.app/api/pin/?username=t3-oss&repo=create-t3-app&bg_color=3f3f46&text_color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/t3-oss/create-t3-app)
