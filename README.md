@@ -24,7 +24,6 @@
 
 <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=juliusmarminge&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="juliusmarminge's GitHub stats" height="229" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarminge&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
 
 ### Maintainer at
