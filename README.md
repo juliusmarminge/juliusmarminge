@@ -32,4 +32,4 @@
 
 ### Sponsors ❤️
 
-If you appreciate my Open Source work and want to show a token of appreciation, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/juliusmarminge).
+Huge thanks to all my sponsors; If you appreciate my Open Source work and want to show a token of appreciation, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/juliusmarminge).
