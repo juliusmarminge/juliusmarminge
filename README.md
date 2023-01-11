@@ -2,12 +2,12 @@
 
 ### Software Engineer
 
-* 👨‍💻  Currently mostly into webapps. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
-* 🤝  Open Source Contributor and Maintainer
+* 👨‍💻  Currently mostly into webapps and devtools. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
+* 🤝  Open Source Enthusiast
 * 🌍  Based in Sweden 🇸🇪
 * 🏫  Student @ [Blekinge Institution of Technology](https://www.bth.se) 
 * 🖥️  Check out my portfolio at [www.jumr.dev](https://www.jumr.dev)
-* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.github.com/theobr)
+* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 ### Tech I'm passionate about
 <div style="display: flex;">
@@ -26,12 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juliusmarminge&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="juliusmarminge's GitHub stats" height="229" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarminge&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=juliusmarminge&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
 
 ### Maintainer at
 <a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="100" /></a>
 <a href="https://github.com/trpc"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="100" /></a>
-
-### Contributes to
-[![create-t3-app](https://github-readme-stats.vercel.app/api/pin/?username=t3-oss&repo=create-t3-app&bg_color=3f3f46&text_color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/t3-oss/create-t3-app)
-[![tRPC](https://github-readme-stats.vercel.app/api/pin/?username=trpc&repo=trpc&bg_color=3f3f46&text_color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/trpc/trpc)
