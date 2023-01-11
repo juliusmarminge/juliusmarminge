@@ -29,3 +29,7 @@
 ### Maintainer at
 <a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="100" /></a>
 <a href="https://github.com/trpc"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="100" /></a>
+
+### Sponsors ❤️
+
+If you appreciate my Open Source work and want to show a token of appreciation, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/juliusmarminge).
