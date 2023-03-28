@@ -5,7 +5,7 @@
 * 👨‍💻  Currently mostly into webapps and devtools. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
 * 🌍  Based in Sweden 🇸🇪
-* 🏫  Student @ [Blekinge Institution of Technology](https://www.bth.se) 
+* 🏫  Student @ [Blekinge Institute of Technology](https://www.bth.se) 
 * 🖥️  Check out my portfolio at [www.jumr.dev](https://www.jumr.dev)
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
