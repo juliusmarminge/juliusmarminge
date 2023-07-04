@@ -32,4 +32,6 @@
 
 ### Sponsors ❤️
 
-Huge thanks to all my sponsors; If you appreciate my Open Source work and want to show a token of appreciation, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/juliusmarminge).
+Huge thanks to all my sponsors; If you appreciate my Open Source work and want to show a token of appreciation, I'd really appreciate if you would consider [sponsoring me](https://github.com/sponsors/juliusmarminge). If you're a sponsor and wanna chat, feel free to reach out:
+
+<a href="https://cal.com/juliusm/quick-chat?utm_source=banner&utm_campaign=oss"><img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" /></a>
