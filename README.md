@@ -4,6 +4,7 @@
 
 * 👨‍💻  Currently mostly into webapps and devtools. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
+* 👷‍♂️  Indie contractor
 * 🌍  Based in Sweden 🇸🇪
 * 🏫  Student @ [Blekinge Institute of Technology](https://www.bth.se) 
 * 🖥️  Check out my portfolio at [www.jumr.dev](https://www.jumr.dev)
