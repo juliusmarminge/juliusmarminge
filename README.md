@@ -7,7 +7,6 @@
 * 👷‍♂️  Indie contractor
 * 🌍  Based in Sweden 🇸🇪
 * 🏫  Student @ [Blekinge Institute of Technology](https://www.bth.se) 
-* 🖥️  Check out my portfolio at [www.jumr.dev](https://www.jumr.dev)
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 ### Tech I'm passionate about
