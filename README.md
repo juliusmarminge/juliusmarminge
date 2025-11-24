@@ -4,7 +4,6 @@
 
 * 🤝  Open Source Enthusiast
 * 🌍  Based in San Fransisco 🇺🇸 and Sweden 🇸🇪
-* 🏫  Student @ [Blekinge Institute of Technology](https://www.bth.se) 
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 ### Tech I'm passionate about
